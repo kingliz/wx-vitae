@@ -1,4 +1,4 @@
-var vitaeData = require('../data/vitaeData.js');
+var vitaeData = require('../../data/vitaeData.js');
 
 Page({
 
