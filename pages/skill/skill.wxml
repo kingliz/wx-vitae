@@ -1,0 +1,6 @@
+<view class="container">
+  <view class='skill' wx:for="{{skill}}">
+    <text class='skillName'>{{item.skillName}}</text>：
+    <progress class='skillProgress' percent="{{item.percent}}" stroke-width="{{item.strokeWidth}}" color="{{item.color}}" active/>
+  </view>
+</view>

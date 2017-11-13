@@ -1,0 +1,13 @@
+<view class="container">
+  <swiper indicator-dots="{{indicatorDots}}" autoplay="{{autoplay}}" circular="{{circular}}">
+    <block wx:for="{{imgUrls}}" wx:key="*this">
+      <swiper-item>
+        <image src="{{item}}" />
+      </swiper-item>
+    </block>
+  </swiper>
+  <view class="name">项目名称：
+    <view class="text" bindtap="woKe">渥课(vcooc)</view>
+    <view class="text" bindtap="keShang">科商课程协同学习平台</view>
+  </view>
+</view>

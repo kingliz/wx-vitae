@@ -1,0 +1,18 @@
+<view class="container">
+  <view class="address">项目名称：
+    <view class="text">科商课程协同学习平台</view>
+  </view>
+  <view class="company">所属公司：
+    <view class="text">广州市风标电子技术有限公司</view>
+  </view>
+  <view class="time">项目描述：
+    <view class="text">
+      该项目是给广东农工商职业技术学院开发的一款协同学习平台，分为前台和后台，前台有课程展示，优秀作品展示，合作企业资源展示，课程教学与学习等功能模块。后台有教师，学生，课程，题目，成绩等管理模块
+    </view>
+  </view>
+  <view class="work">职责描述：
+    <view class="text">
+      根据设计图，使用H-ui + H-ui.admin + HTML(5) + CSS(3) + jQuery + JavaScript等技术进行页面的开发，协同后端人员完成数据的交互。前台主要负责作品展示、教师空间、学生空间等模块的开发，后台主要负责课程管理、成绩管理、题目管理等模块的开发
+    </view>
+  </view>
+</view>

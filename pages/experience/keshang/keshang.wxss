@@ -1,0 +1,22 @@
+.address, .company, .time, .work {
+  font-size: 40rpx;
+  color: #425268;
+  font-weight: bold;
+  margin-left: 20rpx;
+  padding-top: 40rpx;
+}
+
+.text {
+  font-size: 30rpx;
+  color: #333;
+  margin-left: 24rpx;
+  margin-top: 20rpx;
+  text-indent: 2em;
+  margin-right: 24rpx;
+  line-height: 40rpx;
+}
+
+page {
+  height: 100%;
+  background-color: #ededed;
+}

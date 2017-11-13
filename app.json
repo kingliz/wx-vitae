@@ -1,0 +1,42 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/skill/skill",
+    "pages/work/work",
+    "pages/experience/experience",
+    "pages/experience/vcooc/vcooc",
+    "pages/experience/keshang/keshang"
+  ],
+  "tabBar": {
+    "color": "#7A7E83",
+    "selectedColor": "#1296db",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "img/my.png",
+        "selectedIconPath": "img/my_selected.png",
+        "text": "基本信息"
+      },
+      {
+        "pagePath": "pages/skill/skill",
+        "iconPath": "img/jineng.png",
+        "selectedIconPath": "img/my_jineng.png",
+        "text": "职业技能"
+      },
+      {
+        "pagePath": "pages/work/work",
+        "iconPath": "img/work.png",
+        "selectedIconPath": "img/work_selected.png",
+        "text": "工作经历"
+      },
+      {
+        "pagePath": "pages/experience/experience",
+        "iconPath": "img/h.png",
+        "selectedIconPath": "img/h_selected.png",
+        "text": "项目经验"
+      }
+    ]
+  }
+}

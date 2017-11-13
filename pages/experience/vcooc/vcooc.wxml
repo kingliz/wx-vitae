@@ -1,0 +1,24 @@
+<view class="container">
+  <view class="address">项目名称：
+    <view class="text">渥课(vcooc)</view>
+  </view>
+  <view class="company">所属公司：
+    <view class="text">广州市风标电子技术有限公司</view>
+  </view>
+  <view class="time">项目描述：
+    <view class="text">
+      该项目是一款基于校园网络及仿真平台的电子信息课程虚拟教学与实验平台，分为门户网站和管理系统两大部分。门户网站是一个类似高校官网的一个网站，有首页、中心概况、课程教学、课程资源、视频中心、新闻中心、答疑室等模块。管理系统分为行政中心、资源中心，教学中心，考试中心，实训中心等子系统
+    </view>
+  </view>
+  <view class="work">职责描述：
+    <view class="text">
+      1、根据设计图，使用H-ui + HTML(5) + CSS(3) + jQuery + JavaScript等技术进行门户网站的页面制作，对最终效果进行优化和改进，增强页面的操作体验
+    </view>
+    <view class="text">
+      2、使用H-ui + H-ui.admin + Datatables + layer + Validform + Highcharts + UEditor等技术进行后台管理系统的开发，主要负责行政中心子系统院系、专业、年级、班级、教师、学生等管理模块的开发，负责资源中心子系统共享资源库模块的开发，以及用户基本信息，密码等的修改模块开发
+    </view>
+    <view class="text">
+      3、使用ajax协同后端人员完成页面数据的交互，模块开发完成后进行测试，优化
+    </view>
+  </view>
+</view>

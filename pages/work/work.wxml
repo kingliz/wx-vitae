@@ -1,0 +1,22 @@
+<view class="container">
+  <view class="address">
+    <text>工作单位：</text>
+    <view class="text">广州市风标电子技术有限公司</view>
+  </view>
+  <view class="time">
+    <text>起止日期：</text>
+    <view class="text">2017/02——2017/09</view>
+  </view>
+  <view class="work">
+    <text>职位：</text>
+    <view class="text">web前端开发工程师</view>
+  </view>
+  <view class="describe">
+    <text>工作描述：</text>
+    <view class="text">1、根据原型设计快速开发前端页面及交互效果</view>
+    <view class="text">2、解决浏览器的兼容性问题</view>
+    <view class="text">3、和后台进行数据接口对接</view>
+    <view class="text">4、项目完成后进行测试，代码及性能优化</view>
+    <view class="text">5、产品后期运行中遇到的问题进行处理</view>
+  </view>
+</view>
