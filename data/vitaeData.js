@@ -25,7 +25,7 @@ var skillList = [
   { "skillName": "Bootstrap", "percent": 60, "strokeWidth": "13", "color": "#1296db" },
   { "skillName": "H-ui", "percent": 65, "strokeWidth": "13", "color": "#1296db" },
   { "skillName": "MySQL", "percent": 30, "strokeWidth": "13", "color": "#1296db" },
-  { "skillName": "Node.js", "percent": 40, "strokeWidth": "13", "color": "#1296db" },
+  { "skillName": "Node.js", "percent": 50, "strokeWidth": "13", "color": "#1296db" },
   { "skillName": "webpack", "percent": 20, "strokeWidth": "13", "color": "#1296db" },
 ];
 
